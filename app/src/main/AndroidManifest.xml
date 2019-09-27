@@ -22,7 +22,7 @@
         android:theme="@android:style/Theme.Light.NoTitleBar.Fullscreen">
         <meta-data
             android:name="com.amap.api.v2.apikey"
-            android:value="f0f577c0b97d416f142fed74e8bbd3d7" />
+            android:value="你的key" />
         <activity android:name=".MainActivity"
             android:screenOrientation="portrait">
             <intent-filter>
